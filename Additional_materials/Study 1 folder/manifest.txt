@@ -1,0 +1,8 @@
+low_c_rep1	ERR10905084.txt	unstranded
+low_c_rep2	ERR10905083.txt	unstranded
+control_rep1	ERR10905080.txt	unstranded
+control_rep2 	ERR10905079.txt	unstranded
+high_c_rep1	ERR10905085.txt	unstranded
+high_c_rep2	ERR10905086.txt	unstranded
+
+
