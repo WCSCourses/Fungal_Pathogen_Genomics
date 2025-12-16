@@ -5,8 +5,6 @@
 ### 2–6 June 2025, Virtual Course
 
 [Wellcome Connecting Science Course Run Website](https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-virtual-20250602/) <br /> 
-[Course Time Table 2025](coming soon) <br /> 
-[Course Informatics Guide](Add link here)
 
 ### Course overview
 
