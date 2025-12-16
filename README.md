@@ -23,7 +23,7 @@ This week-long course represents a collaborative teaching effort involving the f
 | Course Date | Course Title | Location |Citation DOI |
 |-------------|--------------|----------|-------------|
 | 2–7 June 2024 | [Fungal Pathogen Genomics](https://github.com/WCSCourses/Fungal_Pathogen_Genomics) | Wellcome Genome Campus, Hinxton |[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14038717.svg)](https://doi.org/10.5281/zenodo.14038717) |
-| 2–6 June 2025 | [Fungal Pathogen Genomics](https://github.com/WCSCourses/Fungal_Pathogen_Genomics_2025) | Virtual Course | coming soon..  |
+| 2–6 June 2025 | [Fungal Pathogen Genomics](https://github.com/WCSCourses/Fungal_Pathogen_Genomics_2025) | Virtual Course | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17947525.svg)](https://doi.org/10.5281/zenodo.17947525) |
 
 ******
 
